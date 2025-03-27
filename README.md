@@ -8,3 +8,7 @@
 **- Una foto mía (un poco chinito salí)**
 
 ![foto.thiago](thiago_pdep.jpg)
+
+### Algo que me interesa del mundo:
+
+Si nos centramos en cuestiones tecnológicas, ultimamente paso bastante tiempo viendo videos sobre Computación Cuántica y los avances que hay en el campo. Me parece muy loco cómo los límites de la tecnología se siguen extendiendo día, y me emociona pensar si podría llegar a utilizar dichas herramientas en mi día a día laboral.
