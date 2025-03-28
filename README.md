@@ -2,6 +2,9 @@
 **Legajo:** 222.286-3
 
 **Sobre mi:** Tengo 18 años y este 2025 estoy empezando mi segundo año de cursada. Soy de Caballito y algunos de mis hobbies son leer, escribir, y si la billetera me lo permite, salir a merendar.
+Además, me gusta mucho escuchar música, sobre todo artistas como Wos, Milo J y Andrés Calamaro.
+
+**DATO EXTRA -->** me fascina leer y escribir ficción; uno de mis objetivos por fuera del ámbito tecnológico es algún día publicar un libro (sea novela, poemario, antología).
 
 **Expectativas:** al ser una materia del área de Programación, me intriga bastante lo que vayamos a aprender; me gusta mucho programar pero no tengo tantos conocimientos y siento que con PdeP los voy a poder adquirir.
 
