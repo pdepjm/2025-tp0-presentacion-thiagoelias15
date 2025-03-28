@@ -6,6 +6,8 @@ Además, me gusta mucho escuchar música, sobre todo artistas como Wos, Milo J y
 
 **DATO EXTRA -->** me fascina leer y escribir ficción; uno de mis objetivos por fuera del ámbito tecnológico es algún día publicar un libro (sea novela, poemario, antología).
 
+En cuanto a mi **libro favorito**, la verdad que no me puedo decidir por uno, pero mis favoritos son La Casa de Hades de Rick Riordan (parte del universo Percy Jackson), Al final mueren los dos de Adam Silveira y Matilde debe Morir de Cristian Acevedo. Si tuviera que **recomendarles** alguno, sería Matilde debe Morir o algún otro libro de Acevedo ya que me gusta mucho su forma de escribir y construir las historias (dato: es un autor argentino).
+
 **Expectativas:** al ser una materia del área de Programación, me intriga bastante lo que vayamos a aprender; me gusta mucho programar pero no tengo tantos conocimientos y siento que con PdeP los voy a poder adquirir.
 
 **- Una foto mía (un poco chinito salí)**
